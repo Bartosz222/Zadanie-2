@@ -1,0 +1,6 @@
+[
+{"imie":Bartosz,"nazwisko":Dembek,"wiek":18,"status":OK},
+{"imie":Pawel,"nazwisko":Jakis,"wiek":33,"status":OK},
+{"imie":KKamil,"nazwisko":Czarny,"wiek":44,"status":error},
+{"imie":tomasz,"nazwisko":Somer,"wiek":10,"status":error},
+]
